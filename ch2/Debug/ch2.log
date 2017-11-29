@@ -1,0 +1,30 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (2.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  main.c
+  hw6_5.c
+  hw6_4.c
+  hw6_3.c
+  hw6_2.c
+  hw6_1.c
+  hw5.c
+c:\106ntuta-19\teach\c 語言\c\ch2\hw5.c(16): warning C4244: '*=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw4.c
+c:\106ntuta-19\teach\c 語言\c\ch2\hw4.c(16): warning C4244: '*=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw3.c
+  hw2.c
+c:\106ntuta-19\teach\c 語言\c\ch2\hw2.c(8): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw1.c
+  ex2_9.c
+  ex2_8.c
+  ex2_7.c
+  ex2_6.c
+  ex2_5.c
+  ex2_4.c
+  ex2_3.c
+  ex2_2.c
+  ex2_11.c
+  正在產生程式碼...
+  正在編譯...
+  ex2_10.c
+  ex2_1.c
+  正在產生程式碼...
+  ch2.vcxproj -> C:\106NTUTA-19\teach\C 語言\c\Debug\ch2.exe

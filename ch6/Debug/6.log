@@ -1,0 +1,18 @@
+﻿  hw7.c
+  hw6.c
+  hw5.c
+c:\106ntuta-19\teach\c 語言\c\ch6\hw5.c(21): warning C4098: 'seq': 'void' 函式正在傳回值
+  hw4.c
+  hw3.c
+  hw2.c
+  hw1.c
+  正在產生程式碼...
+c:\106ntuta-19\teach\c 語言\c\ch6\hw1.c(12): warning C4716: 'hw1': 必須傳回值
+c:\106ntuta-19\teach\c 語言\c\ch6\hw1.c(28): warning C4715: 'gcd': 不是所有控制路徑都傳回值
+c:\106ntuta-19\teach\c 語言\c\ch6\hw3.c(18): warning C4716: 'init': 必須傳回值
+c:\106ntuta-19\teach\c 語言\c\ch6\hw3.c(31): warning C4716: 'compare': 必須傳回值
+c:\106ntuta-19\teach\c 語言\c\ch6\hw3.c(24): warning C4716: 'getans': 必須傳回值
+c:\106ntuta-19\teach\c 語言\c\ch6\hw4.c(38): warning C4716: 'MIN': 必須傳回值
+c:\106ntuta-19\teach\c 語言\c\ch6\hw4.c(25): warning C4716: 'MAX': 必須傳回值
+c:\106ntuta-19\teach\c 語言\c\ch6\hw5.c(14): warning C4716: 'hw5': 必須傳回值
+  6.vcxproj -> C:\106NTUTA-19\teach\C 語言\c\Debug\6.exe

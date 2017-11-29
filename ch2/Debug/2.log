@@ -1,0 +1,29 @@
+﻿  main.c
+  hw6_5.c
+  hw6_4.c
+  hw6_3.c
+  hw6_2.c
+  hw6_1.c
+  hw5.c
+c:\106ntuta-19\teach\c 語言\c\ch2\hw5.c(16): warning C4244: '*=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw4.c
+c:\106ntuta-19\teach\c 語言\c\ch2\hw4.c(16): warning C4244: '*=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw3.c
+  hw2.c
+c:\106ntuta-19\teach\c 語言\c\ch2\hw2.c(8): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw1.c
+  ex2_9.c
+  ex2_8.c
+  ex2_7.c
+  ex2_6.c
+  ex2_5.c
+  ex2_4.c
+  ex2_3.c
+  ex2_2.c
+  ex2_11.c
+  正在產生程式碼...
+  正在編譯...
+  ex2_10.c
+  ex2_1.c
+  正在產生程式碼...
+  2.vcxproj -> C:\106NTUTA-19\teach\C 語言\c\Debug\2.exe

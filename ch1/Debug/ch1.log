@@ -1,0 +1,11 @@
+﻿  main.c
+  hw4.c
+  hw3.c
+  hw2.c
+  hw1.c
+  ex1_4.c
+  ex1_3.c
+  ex1_2.c
+  ex1_1.c
+  正在產生程式碼...
+LINK : fatal error LNK1104: 無法開啟檔案 'gdi32.lib'

@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (4.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  main.c
+  ex4_8.c
+  ex4_7.c
+  ex4_6.c
+  ex4_5.c
+  ex4_4.c
+  ex4_3.c
+  ex4_2.c
+  ex4_1.c
+  正在產生程式碼...
+  ch4.vcxproj -> C:\106NTUTA-19\teach\C 語言\c\Debug\ch4.exe

@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (9.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  ex9_14.c
+c:\106ntuta-19\teach\c 語言\c\ch9\ex9_14.c(35): warning C4013: 'insert' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch9\ex9_14.c(39): warning C4013: 'list' 未定義; 假設 extern 傳回整數
+  ch9.vcxproj -> C:\106NTUTA-19\teach\C 語言\c\Debug\ch9.exe

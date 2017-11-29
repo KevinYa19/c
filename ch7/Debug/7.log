@@ -1,0 +1,29 @@
+﻿  main.c
+c:\106ntuta-19\teach\c 語言\c\ch7\main.c(30): warning C4013: 'ex7_1' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch7\main.c(33): warning C4013: 'ex7_2' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch7\main.c(36): warning C4013: 'ex7_3' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch7\main.c(39): warning C4013: 'ex7_4' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch7\main.c(42): warning C4013: 'ex7_5' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch7\main.c(45): warning C4013: 'ex7_6' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch7\main.c(48): warning C4013: 'ex7_7' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch7\main.c(51): warning C4013: 'ex7_8' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch7\main.c(54): warning C4013: 'ex7_9' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch7\main.c(57): warning C4013: 'ex7_10' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch7\main.c(60): warning C4013: 'ex7_11' 未定義; 假設 extern 傳回整數
+  ex7_9.c
+  ex7_8.c
+  ex7_7.c
+  ex7_6.c
+  ex7_5.c
+c:\106ntuta-19\teach\c 語言\c\ch7\ex7_5.c(8): warning C4133: '=': 不相容的類型 - 從 'float *' 至 'int *'
+c:\106ntuta-19\teach\c 語言\c\ch7\ex7_5.c(9): warning C4133: '=': 不相容的類型 - 從 'int *' 至 'float *'
+c:\106ntuta-19\teach\c 語言\c\ch7\ex7_5.c(7): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  ex7_4.c
+  ex7_3.c
+  ex7_2.c
+  ex7_11.c
+  ex7_10.c
+  ex7_1.c
+  正在產生程式碼...
+c:\106ntuta-19\teach\c 語言\c\ch7\ex7_7.c(30): warning C4716: 'swap': 必須傳回值
+  7.vcxproj -> C:\106NTUTA-19\teach\C 語言\c\Debug\7.exe

@@ -1,0 +1,45 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (8.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  main.c
+c:\106ntuta-19\teach\c 語言\c\ch8\main.c(30): warning C4013: 'ex8_1' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch8\main.c(33): warning C4013: 'ex8_2' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch8\main.c(36): warning C4013: 'ex8_3' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch8\main.c(39): warning C4013: 'ex8_4' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch8\main.c(42): warning C4013: 'ex8_5' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch8\main.c(45): warning C4013: 'ex8_6' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch8\main.c(48): warning C4013: 'ex8_7' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch8\main.c(51): warning C4013: 'ex8_8' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch8\main.c(54): warning C4013: 'ex8_9' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch8\main.c(57): warning C4013: 'ex8_10' 未定義; 假設 extern 傳回整數
+  ex8_9.c
+  ex8_8.c
+  ex8_7.c
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_7.c(9): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_7.c(10): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_7.c(11): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_7.c(12): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_7.c(13): warning C4098: 'ex8_7': 'void' 函式正在傳回值
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_7.c(11): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 1 的類型為 'int'
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_7.c(11): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 2 的類型為 'int'
+  ex8_6.c
+  ex8_5.c
+  ex8_4.c
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_4.c(11): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_4.c(12): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_4.c(13): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_4.c(14): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_4.c(15): warning C4129: ',': 無法辨識的字元逸出序列
+  ex8_3.c
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_3.c(10): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_3.c(11): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_3.c(12): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_3.c(13): warning C4129: ',': 無法辨識的字元逸出序列
+  ex8_2.c
+  ex8_10.c
+  ex8_1.c
+  正在產生程式碼...
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_1.c(12): warning C4716: 'ex8_1': 必須傳回值
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_10.c(14): warning C4716: 'ex8_10': 必須傳回值
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_2.c(10): warning C4716: 'ex8_2': 必須傳回值
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_8.c(14): warning C4716: 'ex8_8': 必須傳回值
+c:\106ntuta-19\teach\c 語言\c\ch8\ex8_9.c(18): warning C4716: 'ex8_9': 必須傳回值
+  ch8.vcxproj -> C:\106NTUTA-19\teach\C 語言\c\Debug\ch8.exe

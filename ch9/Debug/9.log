@@ -1,0 +1,9 @@
+﻿  main.c
+c:\106ntuta-19\teach\c 語言\c\ch9 - 複製\main.c(30): warning C4013: 'ex9_1' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch9 - 複製\main.c(33): warning C4013: 'ex9_2' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch9 - 複製\main.c(36): warning C4013: 'ex9_3' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch9 - 複製\main.c(39): warning C4013: 'ex9_4' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch9 - 複製\main.c(42): warning C4013: 'ex9_5' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch9 - 複製\main.c(45): warning C4013: 'ex9_6' 未定義; 假設 extern 傳回整數
+c:\106ntuta-19\teach\c 語言\c\ch9 - 複製\main.c(48): warning C4013: 'ex9_7' 未定義; 假設 extern 傳回整數
+  9.vcxproj -> C:\106NTUTA-19\teach\C 語言\c\Debug\9.exe

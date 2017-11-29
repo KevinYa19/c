@@ -1,0 +1,14 @@
+﻿  main.c
+  ex5_9.c
+  ex5_8.c
+  ex5_7.c
+  ex5_6.c
+  ex5_5.c
+  ex5_4.c
+  ex5_3.c
+  ex5_2.c
+  ex5_10.c
+  ex5_1.c
+c:\106ntuta-19\teach\c 語言\c\ch5\ex5_1.c(25): warning C4819: 檔案含有無法在目前字碼頁 (0) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼...
+  ch5.vcxproj -> C:\106NTUTA-19\teach\C 語言\c\Debug\ch5.exe
